@@ -1,0 +1,18 @@
+{
+  "extends": [
+    "@tsconfig/strictest/tsconfig.json",
+    "@tsconfig/esm/tsconfig.json"
+  ],
+
+  "compilerOptions": {
+    "rootDir": ".",
+    "declaration": true
+  },
+
+  "exclude": ["test.ts"],
+
+  "ts-node": {
+    "experimentalSpecifierResolution": "node",
+    "swc": true
+  }
+}
