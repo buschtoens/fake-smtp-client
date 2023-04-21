@@ -1,3 +1,3 @@
-export * from './Filter.js';
-export * from './Mail.js';
+export type { Filter } from './Filter.js';
+export type { Mail } from './Mail.js';
 export * from './api.js';
