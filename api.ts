@@ -1,5 +1,5 @@
-import type { Filter } from './Filter';
-import type { Mail } from './Mail';
+import type { Filter } from './Filter.js';
+import type { Mail } from './Mail.js';
 
 export namespace FakeSMTPOptions {
   export interface Target {

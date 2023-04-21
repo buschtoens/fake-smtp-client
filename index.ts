@@ -1,3 +1,3 @@
-export * from './Filter';
-export * from './Mail';
-export * from './api';
+export * from './Filter.js';
+export * from './Mail.js';
+export * from './api.js';
