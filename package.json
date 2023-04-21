@@ -11,6 +11,10 @@
   ],
   "license": "ISC",
   "author": "Jan Buschtöns <jan@buschtoens.me> (https://jan.buschtoens.me/)",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:buschtoens/fake-smtp-client.git"
+  },
   "type": "module",
   "main": "index.js",
   "files": [
